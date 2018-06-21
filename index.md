@@ -1,3 +1,7 @@
+WORK IN PROGRESS
+
+
+
 ## Projects
 -Switch 2.0
 
@@ -8,11 +12,19 @@
 ## Experience
 -Worked in IT for 4 years
 
--2014-2016
+- Jackson County Comprehensive Highschool, Jefferson GA 2014-2016 
+  - Equipment installation
+  - End user helpdesk
+  - Created Windows Lab Computer Images
+  
+- University of Georgia College of Engineering, Athens GA 2017-2018
+  - Equipment installation
+  - End user helpdesk
+  - Student Access Management
 
 
 
 ## Contact info
--Jesse Phillips
+* Jesse Phillips
 
 - jessebrittphillips@gmail.com
