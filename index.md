@@ -1,8 +1,9 @@
 ## Projects
-  * Switch 2.0
-  - Game Servers
+*Switch 2.0
+*Game Servers
 ## Experience
-  - Worked in IT for 3 years
+- Worked in IT for 4 years
+-2014-2016
 ## Contact info
-  - Jesse Phillips
-  - jessebrittphillips@gmail.com
+- Jesse Phillips
+- jessebrittphillips@gmail.com
