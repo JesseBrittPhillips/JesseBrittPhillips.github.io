@@ -4,3 +4,5 @@
 ## Experience
   - Worked in IT for 3 years
 ## Contact info
+  - Jesse Phillips
+  - jessebrittphillips@gmail.com
