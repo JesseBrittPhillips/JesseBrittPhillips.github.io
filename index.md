@@ -13,6 +13,6 @@
 
 
 ## Contact info
-- Jesse Phillips
+-Jesse Phillips
 
 - jessebrittphillips@gmail.com
