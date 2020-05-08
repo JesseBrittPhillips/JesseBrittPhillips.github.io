@@ -1,6 +1,6 @@
 WORK IN PROGRESS
 
-
+<a href="/Calendar">link text</a>
 
 ## Projects
 - Automated Laser Pointer
